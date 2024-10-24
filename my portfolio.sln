@@ -1,0 +1,40 @@
+# C# Quote Calculation Application
+
+## Overview
+This application is designed to calculate insurance quotes based on user-provided information. The application uses C#, ASP.NET MVC, and Entity Framework to collect data, process logic, and store it in a database.
+
+## Features
+- User input form to collect personal and vehicle information
+- Dynamic insurance quote calculation based on:
+  - Age
+  - Vehicle make and model
+  - Driving history (DUI, speeding tickets)
+  - Insurance type (full coverage or not)
+- Admin view to display all quotes and user information
+
+## Technologies Used
+- **Languages:** C#
+- **Framework:** ASP.NET MVC
+- **Database:** SQL Server, Entity Framework
+- **Tools:** Visual Studio, Git, GitHub
+
+## Setup
+### Prerequisites
+- Visual Studio
+- SQL Server Express (or any SQL Server)
+- .NET Framework
+
+### Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+
+### 3. **Submit the Updated Portfolio Link**
+
+Once you've made these updates, if your portfolio is hosted on a platform like GitHub Pages, Netlify, or any other hosting service, copy the link to your portfolio.
+
+Example submission format:
+- **Portfolio Link:** [https://yourportfolio.com](https://yourportfolio.com)
+- **GitHub Repository Link:** [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+
+Let me know if you need help with any part of this!
